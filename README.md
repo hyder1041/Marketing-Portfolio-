@@ -1,5 +1,5 @@
 # Marketing-Portfolio-
-A complete Marketing Analytics project built using SQL, Python, and Power BI, including data modeling scripts, customer review processing with Python, enriched dataset, and an interactive Power BI dashboard for analyzing customer behavior, product performance, and marketing KPIs.
+A complete Marketing Analytics project built using SQL, Python, and Power BI, including data modeling scripts, customer review processing with Python, an enriched dataset, and an interactive Power BI dashboard for analyzing customer behavior, product performance, and marketing KPIs.
 ## 🔧 Tech Stack
 - SQL (Data Modeling + ETL)
 - Python (Data Enrichment)
@@ -9,6 +9,7 @@ A complete Marketing Analytics project built using SQL, Python, and Power BI, in
 ---
 
 ## 📂 Project Structure
+```
 MarketingAnalytics_Project/
 │
 ├── data/
@@ -29,6 +30,7 @@ MarketingAnalytics_Project/
 │ └── MarketingAnalyticsDashboard.pbix
 │
 └── README.md
+```
 ---
 
 ## 📊 Power BI Dashboards
